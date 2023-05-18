@@ -16,9 +16,9 @@ main{
     grid-template-areas: 8, 1fr;
 }
 
-
+/*version-dos*/
 .header_contenedor{
-    background-color: rgb(194, 223, 194);
+    background-color: rgb(105, 219, 105);
    grid-column: span 2;
     border: 1px solid black;
     grid-template-areas: "header_contenedor";
